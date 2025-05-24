@@ -1,0 +1,5 @@
+dotenv
+openai
+streamlit
+selenium
+webdriver-manager
